@@ -134,7 +134,8 @@ Sơ đồ UML được lưu tại:
 docs/class_diagram.png
 ```
 
-![UML Class Diagram](docs/class_diagram.png)
+<img width="665" height="779" alt="image" src="https://github.com/user-attachments/assets/68d03d0c-f81c-4366-82fa-794d416c6c90" />
+
 
 ---
 
